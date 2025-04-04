@@ -1,5 +1,6 @@
 title: Vimalkumar Murugesan
-logo: profile_image.png
-description: QA Automation Engineer | Selenium, Python, Jenkins | CI/CD | TestNG | Driving Quality & Efficiency in Software Development 🚀 | Ensuring Flawless Software Quality 🛠️ | Streamlining Testing Processes & Enhancing Software Reliability 🔍 | Passionate About Breaking Code & Delivering High-Quality Products 💡🔥
+# logo: /asserts/profile_image.png
+logo: /asserts/my_suite_photo.jpg
+description: QA Automation Engineer | Selenium, Python, Jenkins | CI/CD | TestNG | Ensuring Quality & Efficiency 🚀
 show_downloads: true
 theme: jekyll-theme-minimal

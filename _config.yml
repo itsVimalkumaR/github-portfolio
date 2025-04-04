@@ -3,20 +3,3 @@ logo: /asserts/profile_image.png
 description: QA Automation Engineer | Selenium, Python, Jenkins | CI/CD | TestNG | Ensuring Quality & Efficiency 🚀
 show_downloads: true
 theme: jekyll-theme-minimal
-
-<div class="download-buttons">
-    <a href="..." class="btn">Download ZIP</a>
-    <a href="..." class="btn">Download TAR</a>
-    <a href="..." class="btn">View on GitHub</a>
-</div>
-
-.download-buttons {
-    position: relative; 
-    z-index: 10;
-    margin-top: 10px;
-}
-
-.github-buttons {
-    position: relative;
-    z-index: 15;
-}
